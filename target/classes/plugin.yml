@@ -1,0 +1,7 @@
+name: Doubleminer
+version: 1.0-SNAPSHOT
+main: com.doubleminer.doubleminer.Doubleminer
+api-version: 1.17
+authors: [ Sir_Jul ]
+description: The Doubleminer Plugin
+website: doubleminer.com
